@@ -1,0 +1,7 @@
+{
+  "genesis_time": "2021-02-09T00:00:00.000000000Z",
+  "chain_id": "mainchain",
+  "balances": {
+    "andy": 100000
+  }
+}
